@@ -1,0 +1,7 @@
+@charset "UTF-8";
+/* CSS Document */
+font-family: 'Oswald', sans-serif;
+.title{color:red}
+header{background-color:darkgray}
+body{background-color: gainsboro}
+footer{background-color: aqua;}
