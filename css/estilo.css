@@ -1,0 +1,55 @@
+ @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&family=Kanit:wght@300&family=Oswald:wght@300&display=swap');
+/* CSS Document */
+.title{color:red}
+header{background-color:darkgray}
+
+
+body{background-repeat: no-repeat; background-size: 1800px;}
+
+
+footer{background-color:#5697c9; margin-top: 200px; text-align: right}
+
+.comienza{ width: 750px; margin-top: 150px; margin-left: 100px}
+.card{text-align: center; margin-top: 100px}
+
+.card-img-top{margin-top: 80px; width: 200px}
+.card-img-top2{width: 450px; margin-top: 150px }
+.card-img-top3{width: 350px; margin-right: 50px}
+
+.card-title{margin-top: 35px}
+.card-title2{margin-top: 60px}
+.card-title3{margin-top: 60px}
+
+.almanac{margin-top: 100px; width: 300px}
+.gorra{width: 450px; margin-top: 60px}
+.pepsi{width: 450px; margin-top: 245px;}
+.muneco{width: 450px; margin-top: 150px}
+.delorean{width: 450px; margin-top: 150px}
+.remera1{width: 450px;margin-top: 150px}
+.remera2{width: 350px;margin-top: 150px}
+.d-block w-100{width: 200px}
+.fondoinicio{background-image: url("../../you rock/Mesa de trabajo 1.jpg")}
+.navbar-nav{font-family: 'Oswald', sans-serif; font-size: 25px}
+
+
+
+/*condicion para celular*/
+
+@media (max-width:400px){
+	
+	.fondoinicio{background-size: 420%; background-position: 70%}
+	.comienza{display: none}
+	
+	.logo{width: 60%}
+	.navbar-toggler-icon{margin-left: 300px; background-color: white}
+	
+	.piefondo{width: 45%}
+	footer{margin-top: 425px}
+
+}
+
+@media (max-width:700px){
+
+	
+	
+}
