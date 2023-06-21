@@ -1,7 +1,244 @@
-@charset "UTF-8";
+ @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&family=Kanit:wght@300&family=Oswald:wght@300&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&family=Kanit:wght@300&family=Oswald:wght@300&family=Roboto+Condensed:wght@700&display=swap');
+
+
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&family=Kanit:wght@300&family=Oswald:wght@300&family=Roboto+Condensed:wght@700&display=swap');
+
+
 /* CSS Document */
-font-family: 'Oswald', sans-serif;
 .title{color:red}
 header{background-color:darkgray}
-body{background-color: gainsboro}
-footer{background-color: aqua;}
+
+
+
+
+
+footer{background: rgba(0,0,0,0.0); margin-top: 100px; text-align: right; background-color:#FF3E1C; height:148px  }
+
+.comienza{ width: 750px; margin-top: 150px; margin-left: 100px}
+.card{text-align: center; margin-top: 100px}
+
+.card-img-top{margin-top: 80px; width: 200px}
+.card-img-top2{width: 450px; margin-top: 150px }
+.card-img-top3{width: 350px; margin-right: 50px}
+
+.card-title{margin-top: 35px}
+.card-title2{margin-top: 60px}
+.card-title3{margin-top: 60px}
+
+.almanac{margin-top: 100px; width: 300px}
+.gorra{width: 450px; margin-top: 60px}
+.pepsi{width: 450px; margin-top: 245px;}
+.muneco{width: 450px; margin-top: 150px}
+.delorean{width: 450px; margin-top: 150px}
+.remera1{width: 450px;margin-top: 150px}
+.remera2{width: 350px;margin-top: 150px}
+.d-block w-100{width: 200px}
+
+.navbar-nav{font-family: 'Oswald', sans-serif; font-size: 25px}
+
+.card-body{}
+
+.card-img-top4{ width:495px}
+
+
+header{background: rgba(0,0,0,0.0); color: white; font-family:'DM Sans', sans-serif; }
+
+.navegador{color:white; font-family:'DM Sans', sans-serif; }
+
+
+.video{margin-left: 300px; margin-top: 400px; }
+
+.carousel-inner{width: 500px}
+
+
+.conoce{color: white; margin-top: 150px; text-align: center; font-size: 100px; font-family:'Roboto Condensed', sans-serif;}
+.card-title{font-family:'Roboto Condensed', sans-serif; color: white; text-align: center}
+button{font-family:'Roboto Condensed', sans-serif; }
+.card-body{ background: rgba(255,255,255,0.2); }
+.card-title{font-family:'Roboto Condensed', sans-serif; color: white;}
+
+
+.navbar-nav{;font-family:'Roboto Condensed', sans-serif; color: white;}
+
+
+.nav-link{color: white;}
+
+
+ body{background-image: linear-gradient( #364989 10%,#9b7580 55%,#c8ad56 135%)}
+
+
+.card{  background: rgba(0,0,0,0.0);}
+
+
+.iconos{color: white; line-height: 145px; width: 500px; height: 120px; float: left; top: 50px;left: 50px; align-content: center; margin-left: 500px; font-size: 25px; text-align: center; color: white}
+
+
+.carousel .slide{width: 300px}
+
+
+.videoindex1{width: 475px; align-content: center}
+
+
+
+.llega{text-align: center;font-size: 80px; margin-top: 200px; color: white; font-family:'Roboto Condensed', sans-serif; }
+
+
+
+.card-body{background-image: url("../../you rock/gettyimages-471147392.jpeg.webp"); background-position: center; height: 300px; background-size: 600px; background-attachment: inherit;box-shadow: 10px 10px 10px black;}
+
+.card-body2{background-image: url("../../you rock/fotocard3.jpg"); background-position: center; height: 300px;background-size: 550px;box-shadow: 10px 10px 10px black;}
+
+.card-body3{background-image: url("../../you rock/fotocard1.jpg"); background-position: center; height: 300px;background-size: 550px;box-shadow: 10px 10px 10px black;}
+
+
+
+.contactosf{color: white; font-family:'Roboto Condensed'; font-size: 15px;  text-align: left;margin-left: 60px;align-items: center; width: 250px;}
+
+form{width: 500px;  ;font-family:'Roboto Condensed', sans-serif;color: white;margin-left: 350px;margin-bottom: 300px}
+
+.contactos{color: white; font-family:'Roboto Condensed'; font-size: 20px;  text-align: left;margin-left: 350px;margin-top:200px;padding-right: 0px;;width: 300px;flex-flow: wrap}
+
+ .navbar-brand {color: white;}
+.container { font-family:'Roboto Condensed'; color: white;margin-top: 120px;height: 800px;}
+
+
+
+
+img:hover{background-color: white;color: #FF3E1C; transition: all 1s}
+
+
+
+hr {text-align: center;width: 350px;height: 40px; border: thick}
+
+iframe{width: 500px;; text-align: center;; margin-left: 50px;box-shadow: 10px 10px 10px black;}
+
+.data {text-align: center;color: white; margin: 75px}
+
+.mas{color: white;font-family:'Roboto Condensed', sans-serif; font-size: 60px; text-align: center;background-color:#FF3E1C; }
+
+
+
+
+.card-bodybuy{background-image: url("../../you rock/dc5fc3405a199d6f85acc001422fa28c.jpg"); height: 500px; background-repeat: no-repeat; background-size: 500px;box-shadow: 10px 10px 10px black; background-position: center}
+
+.card-bodybuy2{background-image: url("../../you rock/madridvalterra201901a.webp"); height: 500px; background-repeat: no-repeat; background-size: 400px;box-shadow: 10px 10px 10px black; background-position: center}
+
+.card-bodybuy3{background-image: url("../../you rock/2ae0d0920b20d6f04228859f4909420b.jpg"); height: 500px; background-repeat: no-repeat; background-size: 400px;box-shadow: 10px 10px 10px black; background-position: center}
+
+.card-bodybuy4{background-image: url("../../you rock/16462973446469.jpg"); height: 500px; background-repeat: no-repeat; background-size: 400px;box-shadow: 10px 10px 10px black; background-position: center}
+
+.card-bodybuy5{background-image: url("../../you rock/81rYoanQq+L._AC_UY1100_.jpg"); height: 500px; background-repeat: no-repeat; background-size: 120px;box-shadow: 10px 10px 10px black; background-position: center}
+
+.card-bodybuy6{background-image: url("../../you rock/pepsi-perfect.png"); height: 500px; background-repeat: no-repeat; background-size: 500px;box-shadow: 10px 10px 10px black; background-position: center}
+
+.card-bodybuy7{background-image: url("../../you rock/D_NQ_NP_767142-MLA32639127872_102019-O.jpg"); height: 500px; background-repeat: no-repeat; background-size: 300px;box-shadow: 10px 10px 10px black; background-position: center}
+
+.card-bodybuy8{background-image: url("../../you rock/Gorro-Marty1.jpg"); height: 500px; background-repeat: no-repeat; background-size: 400px;box-shadow: 10px 10px 10px black; background-position: center}
+
+.card-bodybuy9{background-image: url("../../you rock/D_NQ_NP_840337-MLA43867469174_102020-O.jpg"); height: 500px; background-repeat: no-repeat; background-size: 350px;box-shadow: 10px 10px 10px black; background-position: center;}
+
+
+.card-title{margin-top: 400px; background-color: #FF3E1C; height: 50px;}
+
+.btn-primary{font-family: 'Roboto Condensed', sans-serif; margin-bottom: 150px}
+
+
+.card-deck{padding: 60px}
+
+.card-text{font-family:'Roboto Condensed', sans-serif; font-size: 20px }
+
+.navbar{color: white}
+
+
+iframe{width: 310px;height: 200px;}
+
+.container{display: inline;text-align: center}
+
+button{width: 80px}
+
+
+.nav-item{color: white}
+
+.card-titleh{font-family:'Roboto Condensed', sans-serif; font-size: 40px;color: white;margin-top: 100px}
+form{margin-left: -246px;margin-bottom: -199px}
+
+.llega{margin-top: 44px}
+
+.carousel-item{padding: 60px; width: 20px;box-shadow: 10px 10px 10px black;}
+
+
+
+
+.datag{color: white;}
+
+.card-bodyg{background-image:url("../../you rock/HBBAOCOQTNEOBAHCJUORVM6CGU.jpg.avif"); background-size: 600px; background-repeat: no-repeat; background-position: center; }
+
+
+.card-bodyg2{background-image: url("../../you rock/2196_07975A.jpg"); background-size: 700px; background-repeat: no-repeat; background-position: center;}
+
+.card-bodyg3{background-image:url("../../you rock/252456.jpg") ; background-size: 900px; background-repeat: no-repeat; background-position: center;}
+
+
+.col-md-8{background-image: url("../../you rock/1092742.jpg"); width: 500px; background-size: 500px}
+
+
+.btn{border-radius: 114.25rem;}
+
+
+
+
+.mas2{color: white;font-family:'Roboto Condensed', sans-serif; font-size: 60px;}
+
+.card-columns{margin-left: 200px;margin-top: 200px}
+
+
+.pie{color: white;font-size: 20px; }
+
+
+.fotos{width: 400px; }
+
+
+
+.card-bodyn{background-image: url("../../you rock/2191_00382.JPG"); background-size: 550px;background-position: center;background-repeat: no-repeat}
+
+
+
+
+.datar{text-align: center;color: white; margin: 192px}
+
+/*condicion para celular*/
+.card{margin-top: 80px;}
+@media (max-width:400px){
+	
+	.fondoinicio{background-size: 420%; background-position: 70%}
+	.comienza{display: none}
+	
+	.logo{width: 60%}
+	.navbar-toggler-icon{margin-left: 300px; background-color: white}
+	
+	.piefondo{width: 45%}
+	footer{margin-top: 10px}
+	.card-deck{padding: 50px}
+	.llega{font-size: 50px;margin-top: 50px}
+	.mas{font-size: 30px}
+	iframe{margin-left: 20px}
+	footer{margin-bottom: 800px}
+	.data{text-align: left; font-size: 12px}
+	.llega{font-size: 80px}
+	.card-columns{text-align: center; margin-left: -1px;}
+	.fotos{width: 267px}
+}
+
+@media (max-width:768px){
+
+	.card-titleh{font-size: 25px}
+	footer{margin-top: 100px}
+	.card-body{background-position: left}
+	.mas2{font-size: 30px;margin-left: 60px}
+	.pie{font-size:10px;margin-left: 50px}
+	.card-columns{margin-left: 100px}
+	.fotos{width: 267px}
+	.iconos{margin-left: -98px}
+}
